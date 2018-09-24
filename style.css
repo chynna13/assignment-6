@@ -1,0 +1,23 @@
+div{
+	width: 40%;
+	height: 100px;
+	background-color: green;
+	padding: 15px;
+	border: 2px solid;
+	margin: 25px;
+}
+#one{
+	margin: auto;
+}
+#two, #three{
+	display: inline-block;
+}
+#five{
+	background-color: blue;
+	width: 20%;
+	height: 20%;
+	position: relative;
+	left: 72%;
+	top: 20%;
+	z-index: 1;
+}
